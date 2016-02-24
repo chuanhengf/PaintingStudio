@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PaintingStudio.iml" filepath="$PROJECT_DIR$/PaintingStudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paintingstudiomanager/paintingstudiomanager.iml" filepath="$PROJECT_DIR$/paintingstudiomanager/paintingstudiomanager.iml" />
+    </modules>
+  </component>
+</project>
